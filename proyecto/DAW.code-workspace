@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../../2022-dwcc-recuperacion-A21AlvaroGL"
+		},
+		{
+			"path": "../../DAPW"
+		},
+		{
+			"path": "../../TareasDAPW"
+		},
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../laravel10-vue3"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "prueba"
+	}
+}
